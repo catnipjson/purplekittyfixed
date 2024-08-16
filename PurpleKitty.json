@@ -101,16 +101,16 @@
             "#3e374f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "transparent",
-            "transparent"
+            "#transparent",
+            "#transparent"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b",
             "#26273b"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent",
-            "transparent"
+            "#transparent",
+            "#transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#26273b",
